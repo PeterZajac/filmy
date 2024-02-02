@@ -14,7 +14,7 @@ const allMovies = [
     tags: "Vtipný * Napínavý * Rodina",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
-    category: "komedie",
+    category: "komedia",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const allMovies = [
     tags: "Vtipný * Napínavý * Rodina",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
-    category: "komedie",
+    category: "komedia",
   },
   {
     id: 3,
@@ -55,7 +55,7 @@ const allMovies = [
     tags: "Gangster * Napínavý * Násilí",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
-    category: "akční",
+    category: "akčný",
   },
   {
     id: 6,
@@ -65,7 +65,7 @@ const allMovies = [
     tags: "Rodinný * Napínavý * Romantický",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
-    category: "akční",
+    category: "akčný",
   },
 ];
 
