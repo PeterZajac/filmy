@@ -14,7 +14,7 @@ const allMovies = [
     tags: "Vtipný * Napínavý * Rodina",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
-    category: "komedia",
+    category: "komédia",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const allMovies = [
     tags: "Vtipný * Napínavý * Rodina",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
-    category: "komedia",
+    category: "komédia",
   },
   {
     id: 3,
